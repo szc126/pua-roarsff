@@ -1,0 +1,2 @@
+- If there are multiple IDSs given, they are either equivalent or organized from "more specific" to "less specific"
+- variants of 辶、艹、糹、礻 will not be clearly distinguished
